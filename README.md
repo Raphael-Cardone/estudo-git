@@ -1,3 +1,7 @@
+# Estudo git
+Este repo serve para organizar e estudar comandos git.
 
-fatal: 'main' does not appear to be a git repository
-fatal: Could not read from remote repository.
+## Aulas
+-Comandos básicos do git
+-Branches
+
